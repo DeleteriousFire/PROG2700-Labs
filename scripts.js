@@ -17,3 +17,5 @@ function chargebattery() {
   }
   chargebattery();
   setInterval(chargebattery, 5000);
+
+//function ()
